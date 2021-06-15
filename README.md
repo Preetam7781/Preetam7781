@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preetam7781
-- 👀 I’m interested in Data Structure and Problem solving skills.
+- 👀 I’m interested in Data Structure and Algorithms.
 - 🌱 I’m currently learning Backend of Web Development 
 - 📫 Reach me at 2000kpritam@gmail.com
 
